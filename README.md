@@ -2,7 +2,7 @@
 
 <h2> Note: Your code should be written in ES6 </h2>
 
-<h4> 1. Check if number exists </h4>
+<h4> 1. Check if a number exists in a given array </h4>
 
 Create a function that takes two arguments: a number and an array. The function should return true if the number exists in the array and false if it doesnt. 
 
@@ -20,7 +20,7 @@ Output: false
 <br/>
 <br/>
 
-<h4> 2. Unique elements in array </h4>
+<h4> 2. Return an array of unique elements in a given array </h4>
 
 You are given a single array that may or may not contain repeated integers. Your function should go through this array and return an array that contains unique (non-repeating) elements. 
 
