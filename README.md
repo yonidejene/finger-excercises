@@ -36,7 +36,7 @@ Input: [1, 5, 4]
 Output: [1, 5, 4]
 ```
 
-<h4> Hint: you can use the function you created from challenge 1 </h4>
+<h4> Note: Your solution must use objects </h4>
 
 <br/>
 <br/>
