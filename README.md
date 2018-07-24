@@ -20,7 +20,6 @@ Example 2:
 Input: (5, [1, 3, 2] )
 Output: false
 ```
-```
 
 <br/>
 <br/>
