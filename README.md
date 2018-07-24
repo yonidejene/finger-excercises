@@ -1,13 +1,11 @@
 # finger-excercises
 
-<h3> Your code should be neatly formatted and each line should be commented (you need to explain what every line of your code does). This will help me give better feedback and understand how you think. 
+<h4> Your code should be neatly formatted and each line should be commented (you need to explain what every line of your code does). This will help me give better feedback and understand how you think. 
 
-Please don't use an in-built function or copy an answer from the internet (it's really easy to spot copied code). This is as much a test for you, as it is for me. 
-</h3> 
+Please don't copy an answer from the internet (it's really easy to spot copied code). This is as much a test for you, as it is for me. 
+</h4> 
 
-<h2> Please comment on each line of code. </h2>
-
-<h4> 1. Check if a number exists in a given array </h4>
+<h2> 1. Check if a number exists in a given array </h2>
 
 Create a function that takes two arguments: a number and an array. The function should return true if the number exists in the array and false if it doesnt. 
 
@@ -27,7 +25,7 @@ Output: false
 <br/>
 <br/>
 
-<h4> 2. Adding Two Numbers that are reversed arrays </h4>
+<h2> 2. Adding Two Numbers that are reversed arrays </h2>
 
 You are given two non-empty arrays representing two non-negative integers. The digits are stored in reverse order and each of the elements contain a single digit. Add the two numbers and return it as an array.
 
