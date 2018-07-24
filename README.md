@@ -1,6 +1,11 @@
 # finger-excercises
 
-<h2> Note: Your code should be written in ES6 </h2>
+<h3> Your code should be neatly formatted and each line should be commented (you need to explain what every line of your code does). This will help me give better feedback and understand how you think. 
+
+Please don't use an in-built function or copy an answer from the internet (it's really easy to spot copied code). This is as much a test for you, as it is for me. 
+</h3> 
+
+<h2> Please comment on each line of code. </h2>
 
 <h4> 1. Check if a number exists in a given array </h4>
 
@@ -17,31 +22,12 @@ Example 2:
 Input: (5, [1, 3, 2] )
 Output: false
 ```
-<br/>
-<br/>
-
-<h4> 2. Return an array of unique elements in a given array </h4>
-
-You are given a single array that may or may not contain repeated integers. Your function should go through this array and return an array that contains unique (non-repeating) elements. 
-
-Example 1: 
-``` 
-Input: [2, 2, 3, 4, 5, 5] 
-Output: [2, 3, 4, 5]
 ```
 
-Example 2: 
-``` 
-Input: [1, 5, 4] 
-Output: [1, 5, 4]
-```
-
-<h4> Note: Your solution must use objects </h4>
-
 <br/>
 <br/>
 
-<h4> 3. Adding Two Numbers that are reversed arrays </h4>
+<h4> 2. Adding Two Numbers that are reversed arrays </h4>
 
 You are given two non-empty arrays representing two non-negative integers. The digits are stored in reverse order and each of the elements contain a single digit. Add the two numbers and return it as an array.
 
